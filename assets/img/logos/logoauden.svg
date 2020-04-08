@@ -5,11 +5,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
    viewBox="0 0 85.072884 36.193016"
    height="36.193016mm"
-   width="85.072884mm">
+   width="85.072884mm"
+   sodipodi:docname="logoauden.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="1.2937926"
+     inkscape:cx="160.76765"
+     inkscape:cy="68.396251"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
   <defs
      id="defs2" />
   <metadata
@@ -20,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,23 +63,23 @@
       </g>
       <path
          d="m 432.9657,278.2378 v -23.1626 h 4.3469 l 15.0916,17.1581 v -17.1581 h 4.3859 v 23.1626 h -4.3859 l -15.0916,-17.1823 v 17.1823 z"
-         style="fill:#ffffff;fill-rule:evenodd"
+         style="fill:#868789;fill-rule:evenodd"
          id="path4521" />
       <path
          d="m 427.5684,255.0752 h -21.9115 v 23.1626 h 22.5684 v -3.2897 h -18.0582 v -7.0464 h 17.4013 v -3.2636 h -17.4013 v -6.2755 h 17.4013 z"
-         style="fill:#ffffff;fill-rule:evenodd"
+         style="fill:#868789;fill-rule:evenodd"
          id="path4523" />
       <path
          d="m 370.0489,267.9017 v -12.8265 h -4.5335 v 12.8265 c -0.0121,8.8754 -14.7345,8.8754 -14.7224,0 v -12.8265 h -4.5339 v 12.8265 c 0,14.4146 23.7898,14.4146 23.7898,0 z"
-         style="fill:#ffffff;fill-rule:evenodd"
+         style="fill:#868789;fill-rule:evenodd"
          id="path4525" />
       <path
          d="m 387.2846,255.0582 h -11.4049 l -4e-4,15.9662 c -1.4476,0.7876 -2.35,2.3043 -2.35,3.9524 0,2.4838 2.0148,4.4981 4.4976,4.4981 1.1263,0 2.2149,-0.4236 3.0446,-1.1869 l 6.2131,-0.0502 c 17.8249,0 17.8249,-23.1796 0,-23.1796 z m -5.5795,19.8895 c -0.5919,0 -0.9607,0.2822 -1.2744,0.8427 -0.4236,0.7785 -1.2398,1.2636 -2.1247,1.2636 -1.3345,0 -2.4191,-1.0837 -2.4191,-2.4204 0,-1.3341 1.0846,-2.4178 2.4191,-2.4178 0.022,0 0.0435,10e-4 0.0642,10e-4 1.1222,0.0623 2.0515,-0.3258 2.122,-1.6509 l -0.0709,-12.2005 h 6.8633 c 11.907,-0.0996 11.9385,16.4863 0,16.5819 z"
-         style="fill:#ffffff;fill-rule:evenodd"
+         style="fill:#868789;fill-rule:evenodd"
          id="path4527" />
       <path
          d="m 315.3317,278.2378 11.6356,-23.163 h 4.5672 l 12.3876,23.163 h -5.1765 l -3.4113,-6.8319 h -11.9142 l -3.2223,6.8319 z m 18.4926,-9.8784 -4.6102,-9.6019 -4.3769,9.6019 z"
-         style="fill:#ffffff;fill-rule:evenodd"
+         style="fill:#868789;fill-rule:evenodd;fill-opacity:1;"
          id="path4529" />
       <path
          d="M 162.608,189.0707 H 298.4012 V 325.8605 H 162.608 Z"
